@@ -45,6 +45,7 @@ Example: Fine-tune a T5-large model on 15-task continual learning benchmark sequ
 ```bash
 cd notebooks
 bash run_finetuning.sh
+```
 
 ---
 
