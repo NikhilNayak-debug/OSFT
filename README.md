@@ -51,4 +51,4 @@ bash run_finetuning.sh
 
 ## 🛠️ Training on Benchmark Datasets
 
-To process your data and run training on any benchmark using the OSFT method with a lightweight and efficient trainer, see the [Mini Trainer README](./mini_trainer/README.md).
+To process your data and run training on any benchmark using the OSFT method with a lightweight and efficient trainer, see the Mini Trainer README at ./mini_trainer/README.md.
